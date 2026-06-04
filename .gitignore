@@ -1,6 +1,7 @@
 # Python cache and bytecode
 __pycache__/
 *.py[cod]
+.idea/
 
 # Jupyter
 .ipynb_checkpoints/
@@ -9,5 +10,6 @@ __pycache__/
 .env
 
 # Mock data
-/extra_data/mock_data/
+/mock_data/
+
 

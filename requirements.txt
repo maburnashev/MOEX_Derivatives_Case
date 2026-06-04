@@ -1,0 +1,17 @@
+# Core data analysis
+pandas>=2.0
+numpy>=1.24
+
+# Data loading and parsing
+requests>=2.31
+lxml>=4.9
+html5lib>=1.1
+beautifulsoup4>=4.12
+openpyxl>=3.1
+
+# Visualization
+matplotlib>=3.7
+
+# Jupyter notebooks
+jupyter>=1.0
+ipykernel>=6.25
