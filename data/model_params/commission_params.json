@@ -1,0 +1,26 @@
+{
+    "description": {
+        "fee_per_1m_forts": "Model fee in RUB for futures per 1 million RUB trading volume before adjustment",
+        "fee_per_1m_options": "Model fee in RUB for options per 1 million RUB trading volume before adjustment",
+        "fee_per_trade_forts": "Model fee in RUB for futures per trade before adjustment",
+        "fee_per_trade_options": "Model fee in RUB for options per trade before adjustment",
+        "corr_by_value": "Adjustment factor for fees based on trading value (ratio)",
+        "corr_by_num_trades": "Adjustment factor for fees based on number of trades (ratio)",
+        "fee_per_1m_forts_corr": "Model fee in RUB for futures per 1 million RUB trading volume after adjustment",
+        "fee_per_1m_options_corr": "Model fee in RUB for options per 1 million RUB trading volume after adjustment",
+        "fee_per_trade_forts_corr": "Model fee in RUB for futures per trade after adjustment",
+        "fee_per_trade_options_corr": "Model fee in RUB for options per trade after adjustment"
+    },
+    "data": {
+        "fee_per_1m_forts": 34.99198128499643,
+        "fee_per_1m_options": 15.322643263935563,
+        "fee_per_trade_forts": 10.12914850499696,
+        "fee_per_trade_options": 11.043125034778253,
+        "corr_by_value": 2.6609983201317764,
+        "corr_by_num_trades": 2.8086747065144806,
+        "fee_per_1m_forts_corr": 93.11360341745805,
+        "fee_per_1m_options_corr": 40.77352798531101,
+        "fee_per_trade_forts_corr": 28.44948320451393,
+        "fee_per_trade_options_corr": 31.016545966058523
+    }
+}

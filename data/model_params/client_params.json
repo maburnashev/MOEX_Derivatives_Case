@@ -1,0 +1,22 @@
+{
+    "description": {
+        "value_rub_mm_growth_per_client_forts": "Median monthly turnover growth per client for futures (model, 2015-2021)",
+        "num_trades_growth_per_client_forts": "Median monthly trades growth per client for futures (model, 2015-2021)",
+        "value_rub_mm_growth_per_client_options": "Median monthly turnover growth per client for options (model, 2015-2021)",
+        "num_trades_growth_per_client_options": "Median monthly trades growth per client for options (model, 2015-2021)",
+        "value_rub_mm_growth_per_client_future_real": "Monthly turnover growth per client for futures (real, 2026-04)",
+        "num_trades_growth_per_client_future_real": "Monthly trades growth per client for futures (real, 2026-04)",
+        "value_rub_mm_growth_per_client_option_real": "Monthly turnover growth per client for options (real, 2026-04)",
+        "num_trades_growth_per_client_option_real": "Monthly trades growth per client for options (real, 2026-04)"
+    },
+    "data": {
+        "value_rub_mm_growth_per_client_forts": 30.46025438841923,
+        "num_trades_growth_per_client_forts": 147.13115187939124,
+        "value_rub_mm_growth_per_client_options": 4.049307496150123,
+        "num_trades_growth_per_client_options": 3.242776057791538,
+        "value_rub_mm_growth_per_client_future_real": 442.6812603116594,
+        "num_trades_growth_per_client_future_real": 1463.3341360881132,
+        "value_rub_mm_growth_per_client_option_real": 6.073412177495579,
+        "num_trades_growth_per_client_option_real": 7.865716878803439
+    }
+}

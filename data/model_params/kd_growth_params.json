@@ -1,0 +1,22 @@
+{
+    "description": {
+        "kd_options_value_conservative": "Options commission growth, value-based, conservative",
+        "kd_futures_value_conservative": "Futures commission growth, value-based, conservative",
+        "kd_options_value_positive": "Options commission growth, value-based, positive",
+        "kd_futures_value_positive": "Futures commission growth, value-based, positive",
+        "kd_options_trades_conservative": "Options commission growth, trades-based, conservative",
+        "kd_futures_trades_conservative": "Futures commission growth, trades-based, conservative",
+        "kd_options_trades_positive": "Options commission growth, trades-based, positive",
+        "kd_futures_trades_positive": "Futures commission growth, trades-based, positive"
+    },
+    "data": {
+        "kd_options_value_conservative": 165.10455251540674,
+        "kd_futures_value_conservative": 2836.2640471181544,
+        "kd_options_value_positive": 247.6344413854447,
+        "kd_futures_value_positive": 41219.647313000365,
+        "kd_options_trades_conservative": 100.57971265412529,
+        "kd_futures_trades_conservative": 4185.805234253529,
+        "kd_options_trades_positive": 243.96736912740923,
+        "kd_futures_trades_positive": 41631.09992723067
+    }
+}
